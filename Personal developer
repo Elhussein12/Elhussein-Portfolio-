@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Name | Junior Java Developer</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #1f4037, #99f2c8);
+            color: #ffffff;
+        }
+
+        .container {
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        h1 {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-weight: normal;
+            margin-bottom: 30px;
+            color: #f0f0f0;
+        }
+
+        .card {
+            background-color: rgba(0, 0, 0, 0.4);
+            padding: 30px;
+            margin: 20px auto;
+            width: 80%;
+            max-width: 800px;
+            border-radius: 15px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        }
+
+        .skills span {
+            display: inline-block;
+            background-color: #00c9a7;
+            padding: 10px 15px;
+            margin: 5px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+
+        footer {
+            margin-top: 40px;
+            font-size: 14px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Your Name</h1>
+    <h2>Junior Java Developer</h2>
+
+    <div class="card">
+        <p>
+            I am a motivated Junior Java Developer with a strong academic foundation 
+            in Telecommunications and Space Technology, combined with advanced 
+            software development studies in Ireland.
+        </p>
+
+        <p>
+            I specialize in building Java applications using Object-Oriented Programming 
+            principles and SQL database integration. My technical background also includes 
+            Cisco networking (CCNA & CCNP), which gives me strong system and infrastructure awareness.
+        </p>
+
+        <p>
+            I am passionate about solving real-world problems through clean, structured, 
+            and efficient code. My goal is to grow within a professional development team 
+            and contribute to impactful software solutions.
+        </p>
+    </div>
+
+    <div class="card">
+        <h3>Technical Skills</h3>
+        <div class="skills">
+            <span>Java</span>
+            <span>SQL</span>
+            <span>OOP</span>
+            <span>JDBC</span>
+            <span>Android</span>
+            <span>CCNA</span>
+            <span>Networking</span>
+        </div>
+    </div>
+
+    <footer>
+        © 2026 Your Name | Junior Java Developer
+    </footer>
+
+</div>
+
+</body>
+</html>
